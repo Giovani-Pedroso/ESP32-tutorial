@@ -12,18 +12,23 @@ microcontroleers.
 
 # What I am using to code
 
+To code I am using Emacs to write the programs and the CLI version of the PlatformIO to do the upload 
+but i do not recomend this configurantion I am only using it because my PC a laptop power by a C-70 amd processor do not get along with vscode that i recoment you to use it with the PlatformIO extencion
 
 
-1. * [ ] Hello Word Blink
-2. * [ ] Button
-3. * [ ] Timmers
-4. * [ ] PWMs
-5. * [ ]
+1.  * [ ] Hello Word Blink
+2.  * [ ] Button
+3.  * [ ] Timmers
+4.  * [ ] PWMs
+5.  * [ ] ISR
+6.  * [ ] ADC
+7.  * [ ] Wifi
+8.  * [ ] Bluetooth
+9.  * [ ] I2S
+10. * [ ] I2C
+11. * [ ] SPI
 
-can't find hunspell dictionary
 
-
----
-#Sources
+# Sources
 
 https://www.espressif.com/en/products/sdks/esp-idf
